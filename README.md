@@ -1,3 +1,3 @@
-# secret_eye
+# Port Scanner
 
-** Secret eye is a go-based port scanning tool developed with the intention to replace nmap
+*** This tool can find open ports in a given ip address
